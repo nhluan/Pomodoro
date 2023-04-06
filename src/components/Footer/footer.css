@@ -1,0 +1,63 @@
+
+
+.footer {
+   width: 50%;
+   margin: auto;
+   padding-left: 3.5rem;
+}
+
+.title {
+    font-size: 2.5rem; 
+    font-weight: 500;
+}
+
+
+.intro h4 {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.intro p {
+    font-size: 1.3rem;
+    color: #785e60;
+    font-weight: 400;
+}
+
+.intro ul li {
+    font-size: 1.3rem;
+    color: #785e60;
+    font-weight: 400;
+}
+
+.end-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.navbar li {
+    padding-left: 0.7rem;
+    font-weight: 600;
+    color: #785e60;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-top: 0;
+}
+
+.icons li {
+    padding-left: 1rem;
+    font-size: 2rem;
+    margin-top: 0rem;
+}
+
